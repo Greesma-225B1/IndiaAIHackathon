@@ -41,9 +41,8 @@ The objective of this project is to build an efficient **text classification sys
 The dataset used for this project includes:
 
 - `train.gz` – Training data
-- **Download Link:** [train.gz](https://github.com/user-attachments/files/18574056/train.gz)
 - `test.csv` – Test data
-- **Download Link:** [test.csv](https://github.com/user-attachments/files/18574001/test.csv)
+- **Download Link:** [[Click here to access datasets](https://drive.google.com/drive/folders/1-L98Fg4pur22AX3_SHQwbr6j8HeMnRgD?usp=sharing)]
 
 > Dataset files are included in the repository for reproducibility.
 
