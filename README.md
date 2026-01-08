@@ -1,15 +1,15 @@
-# 🇮🇳 IndiaAI Hackathon – NLP Text Classification
+# IndiaAI Hackathon – NLP Text Classification
 
 An **NLP-based text classification project** developed as part of the **IndiaAI Hackathon**, focusing on analyzing and classifying textual data using Machine Learning and Deep Learning techniques.
 
 ---
 
-## 🧩 Problem Statement
+## Problem Statement
 The objective of this project is to build an efficient **text classification system** that can process raw text data and classify it into meaningful categories using NLP techniques.
 
 ---
 
-## 🚀 Features
+## Features
 - Text preprocessing using NLP techniques  
 - Feature extraction from textual data  
 - Machine Learning & Deep Learning models for classification  
@@ -17,7 +17,7 @@ The objective of this project is to build an efficient **text classification sys
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python  
 - **Libraries:**  
   - NumPy  
@@ -29,7 +29,7 @@ The objective of this project is to build an efficient **text classification sys
 
 ---
 
-## 📂 Project Files
+## Project Files
 - `Text_Classification.ipynb` – Basic text classification  
 - `Text_Classification_LSTM.ipynb` – LSTM-based model  
 - `Text_Classification_BiLSTM.ipynb` – BiLSTM model  
